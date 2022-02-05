@@ -81,6 +81,7 @@
   </div>  
 </nav> 
 		
+		<div style="background-image:url('home.jpg');">
 		<center>
 		
 			<div class="container" style="margin-top:60px;">
